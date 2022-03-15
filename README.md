@@ -1,5 +1,8 @@
 # mall
 
+项目效果图
+![image](https://github.com/yinianyouyinian/images/blob/main/mall.jpg)
+
 ## Project setup
 ```
 npm install
